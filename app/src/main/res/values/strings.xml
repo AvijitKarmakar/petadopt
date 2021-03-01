@@ -1,0 +1,57 @@
+<resources>
+    <!--
+      Copyright 2020 The Android Open Source Project
+      Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
+      in compliance with the License. You may obtain a copy of the License at
+      http://www.apache.org/licenses/LICENSE-2.0
+      Unless required by applicable law or agreed to in writing, software distributed under the License
+      is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+      or implied. See the License for the specific language governing permissions and limitations under
+      the License.
+      -->
+    <string name="app_name">AndroidDevChallenge</string>
+
+    <string name="desc_bulldog">The Bulldog, also known as the English Bulldog or British Bulldog,
+        is a medium-sized dog breed. It is a muscular, hefty dog with a wrinkled face and a
+        distinctive pushed-in nose. The Kennel Club (UK), the American Kennel Club (US), and the
+        United Kennel Club (US) oversee breeding records. Bulldogs are popular pets; they were the
+        fifth most popular purebreed in the US in 2017 according to the American Kennel Club.\n
+        Bulldogs have a longstanding association with British culture, as the BBC wrote: \"to
+        many the Bulldog is a national icon, symbolising pluck and determination.\" During World
+        War II, Bulldogs were often likened to Prime Minister Winston Churchill and his defiance
+        of Nazi Germany. Dedicated Bulldog fanciers formed the Bulldog Club (England) in 1878, and
+        the Bulldog Club of America in 1890.</string>
+
+    <string name="desc_husky">The Bulldog, also known as the English Bulldog or British Bulldog,
+        is a medium-sized dog breed. It is a muscular, hefty dog with a wrinkled face and a
+        distinctive pushed-in nose. The Kennel Club (UK), the American Kennel Club (US), and the
+        United Kennel Club (US) oversee breeding records. Bulldogs are popular pets; they were the
+        fifth most popular purebreed in the US in 2017 according to the American Kennel Club.\n
+        Bulldogs have a longstanding association with British culture, as the BBC wrote: \"to
+        many the Bulldog is a national icon, symbolising pluck and determination.\" During World
+        War II, Bulldogs were often likened to Prime Minister Winston Churchill and his defiance
+        of Nazi Germany. Dedicated Bulldog fanciers formed the Bulldog Club (England) in 1878, and
+        the Bulldog Club of America in 1890.</string>
+
+    <string name="desc_golden_retriever">The Bulldog, also known as the English Bulldog or British Bulldog,
+        is a medium-sized dog breed. It is a muscular, hefty dog with a wrinkled face and a
+        distinctive pushed-in nose. The Kennel Club (UK), the American Kennel Club (US), and the
+        United Kennel Club (US) oversee breeding records. Bulldogs are popular pets; they were the
+        fifth most popular purebreed in the US in 2017 according to the American Kennel Club.\n
+        Bulldogs have a longstanding association with British culture, as the BBC wrote: \"to
+        many the Bulldog is a national icon, symbolising pluck and determination.\" During World
+        War II, Bulldogs were often likened to Prime Minister Winston Churchill and his defiance
+        of Nazi Germany. Dedicated Bulldog fanciers formed the Bulldog Club (England) in 1878, and
+        the Bulldog Club of America in 1890.</string>
+
+    <string name="desc_beagle">The Bulldog, also known as the English Bulldog or British Bulldog,
+        is a medium-sized dog breed. It is a muscular, hefty dog with a wrinkled face and a
+        distinctive pushed-in nose. The Kennel Club (UK), the American Kennel Club (US), and the
+        United Kennel Club (US) oversee breeding records. Bulldogs are popular pets; they were the
+        fifth most popular purebreed in the US in 2017 according to the American Kennel Club.\n
+        Bulldogs have a longstanding association with British culture, as the BBC wrote: \"to
+        many the Bulldog is a national icon, symbolising pluck and determination.\" During World
+        War II, Bulldogs were often likened to Prime Minister Winston Churchill and his defiance
+        of Nazi Germany. Dedicated Bulldog fanciers formed the Bulldog Club (England) in 1878, and
+        the Bulldog Club of America in 1890.</string>
+</resources>
